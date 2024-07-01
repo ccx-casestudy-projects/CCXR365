@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Cotação</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Cotações</value>
+    </caseValues>
+    <gender>Feminine</gender>
+    <layouts>
+        <layout>Channel Quote Page Layout</layout>
+        <sections>
+            <label>Texto adicional</label>
+            <section>Additional Text</section>
+        </sections>
+        <sections>
+            <label>Informação do desconto</label>
+            <section>Discount Information</section>
+        </sections>
+        <sections>
+            <label>Informação do parceiro</label>
+            <section>Partner Information</section>
+        </sections>
+        <sections>
+            <label>Opções de cotação</label>
+            <section>Quote Options</section>
+        </sections>
+        <sections>
+            <label>Recalculando</label>
+            <section>Recalculating</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Direct Quote Page Layout</layout>
+        <sections>
+            <label><!-- Additional Text --></label>
+            <section>Additional Text</section>
+        </sections>
+        <sections>
+            <label><!-- Calculated Prices --></label>
+            <section>Calculated Prices</section>
+        </sections>
+        <sections>
+            <label><!-- Partner Information --></label>
+            <section>Partner Information</section>
+        </sections>
+        <sections>
+            <label><!-- Pricing Defaults --></label>
+            <section>Pricing Defaults</section>
+        </sections>
+        <sections>
+            <label><!-- Quote Options --></label>
+            <section>Quote Options</section>
+        </sections>
+        <sections>
+            <label><!-- Recalculating --></label>
+            <section>Recalculating</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Training Quote Layout</layout>
+        <sections>
+            <label><!-- Additional Text --></label>
+            <section>Additional Text</section>
+        </sections>
+        <sections>
+            <label><!-- Calculated Prices --></label>
+            <section>Calculated Prices</section>
+        </sections>
+        <sections>
+            <label><!-- Partner Information --></label>
+            <section>Partner Information</section>
+        </sections>
+        <sections>
+            <label><!-- Pricing Defaults --></label>
+            <section>Pricing Defaults</section>
+        </sections>
+        <sections>
+            <label><!-- Quote Options --></label>
+            <section>Quote Options</section>
+        </sections>
+        <sections>
+            <label><!-- Recalculating --></label>
+            <section>Recalculating</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Número da cotação</nameFieldLabel>
+</CustomObjectTranslation>
